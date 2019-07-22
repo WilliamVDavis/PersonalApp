@@ -19,7 +19,7 @@ export default function HomeScreen() {
     <View style={styles.container}>
     <Text style= {{ fontSize: 56, fontWeight: "bold"}}>
     <Text style={styles.titleText}>
-    Next-U App
+    Next-U 
     </Text>
     </Text>
  <View style={styles.container}>
@@ -38,7 +38,7 @@ export default function HomeScreen() {
     <View style={styles.container}>
     <Text style= {{ fontSize: 30 }}>
     <Text style={styles.titleText}>
-   Begin the new you.
+   Begin the new U.
     </Text>
     </Text>
     

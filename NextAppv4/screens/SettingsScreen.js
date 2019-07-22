@@ -15,7 +15,7 @@ export default function SettingsScreen() {
 }
 
 SettingsScreen.navigationOptions = {
-  title: 'app.json',
+  title: 'Transformation For U',
 };
 
 const styles = StyleSheet.create({

@@ -31,7 +31,7 @@ export default class LinksScreen extends Component {
 }
 
 LinksScreen.navigationOptions = {
-  title: 'Links',
+  title: 'The Now U',
 };
 
 const styles = StyleSheet.create({
